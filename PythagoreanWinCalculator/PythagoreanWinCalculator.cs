@@ -135,22 +135,22 @@ public sealed class PythagoreanWinCalculator
     private readonly double PythagoreanExponentConstant;
 
     /// <summary>
-    ///     A public property that is read only, a private setter to represents the points scored meaning (runs scored in Baseball or goals scored in Hockey) by a team.
+    ///     A public property that is read only, a private setter that represents the points scored meaning (runs scored in Baseball or goals scored in Hockey) by a team.
     /// </summary>
     public int PointsScored { get; private set; }
 
     /// <summary>
-    ///     A public property that is read only, a private setter to represents the points scored meaning (runs scored in Baseball or goals scored in Hockey) against a team.
+    ///     A public property that is read only, a private setter that represents the points scored meaning (runs scored in Baseball or goals scored in Hockey) against a team.
     /// </summary>
     public int PointsAllowed { get; private set; }
 
     /// <summary>
-    ///     A public property that is read only, a private setter to represents the total number of games a sport plays during a full regular season.
+    ///     A public property that is read only, a private setter that represents the total number of games a sport plays during a full regular season.
     /// </summary>
     public int TotalNumberOfGamesPlayed { get; private set; }
 
     /// <summary>
-    ///     A public property that is read only, a private setter to represents the actual number of wins by a team, not expected (or predicted).
+    ///     A public property that is read only, a private setter that represents the actual number of wins by a team, not expected (or predicted).
     /// </summary>
     public int ActualNumberOfWins { get; private set; }
 
