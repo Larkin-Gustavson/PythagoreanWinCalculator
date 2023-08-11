@@ -26,7 +26,7 @@
 ///         <br/>
 ///         The <strong>Expected Win%</strong> part of the formula represents the percentage of games 
 ///         the formula calculates that the team should have won 
-///         (in this particular the formula, we will not return the decimal number of this calculation as percent, meaning it will not be return multiplied by a hundred.)
+///         (in this particular formula, we will not return the decimal number of this calculation as percent, meaning it will not be returned multiplied by a hundred.)
 ///         This is because this decimal form of the calculation is used to actually translate this number into the number of predicted wins for the team
 ///         as specified by the <see cref="GetExpectedNumberOfWins()"/> method.
 ///         
