@@ -1,4 +1,5 @@
 ﻿namespace PythagoreanWinCalculator;
+
 /// <summary>
 ///     A public enum to describe the sports that are currently supported by the <see cref="PythagoreanWinCalculator"/>
 /// </summary>
