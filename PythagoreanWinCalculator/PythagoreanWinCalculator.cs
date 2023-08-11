@@ -113,7 +113,7 @@ public sealed class PythagoreanWinCalculator
      */
 
     /// <summary>
-    ///     A public read only field to represent the exponent part of the Pythagorean Win formula. This exponent can change every  year and changes based on the sport.
+    ///     A public read only field to represent the exponent part of the Pythagorean Win formula. This exponent can change every year and changes based on the sport.
     ///     The larger this number, the less amount of "luck" is determined to be a factor in a particular sport. Conversely, the smaller this number the more likely "luck" is in play for a sport.
     ///     
     ///     <br/>
